@@ -9,7 +9,7 @@ def simple_interest(p,t,r):
 	print('The rate of interest is',r) 
 	
 	si = (p * t * r)/100
-	print('ronak+nik')
+	print('ronak+nik',p*p)
 	print('The Simple Interest is', si) 
 	return si 
 	
